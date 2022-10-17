@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Xunit;
 
-namespace xUnitTest.Introduction
+namespace TestProject.Introduction
 {
     public class CalculatorTest
     {

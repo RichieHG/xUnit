@@ -17,5 +17,7 @@ namespace ProjectToTest.Asserts
 
             return 10;
         }
+
+        public string GetFullName(string firstName, string lastName) => $"{firstName} {lastName}";
     }
 }
