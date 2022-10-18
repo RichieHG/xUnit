@@ -1,0 +1,1568 @@
+{
+  "Core.dll": {
+    "C:\\Users\\neftali.hernandez\\Documents\\Training\\xUnit\\MockingSampleApp\\Code\\Core\\Services\\DefaultKeyGenerator.cs": {
+      "Core.Services.DefaultKeyGenerator": {
+        "System.String Core.Services.DefaultKeyGenerator::GetKey(System.String)": {
+          "Lines": {
+            "8": 0,
+            "9": 0,
+            "10": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\neftali.hernandez\\Documents\\Training\\xUnit\\MockingSampleApp\\Code\\Core\\Services\\LocalFileStorage.cs": {
+      "Core.Services.LocalFileStorage": {
+        "System.Void Core.Services.LocalFileStorage::.ctor(Microsoft.AspNetCore.Hosting.IHostingEnvironment)": {
+          "Lines": {
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0
+          },
+          "Branches": []
+        }
+      },
+      "Core.Services.LocalFileStorage/<StoreFile>d__2": {
+        "System.Void Core.Services.LocalFileStorage/<StoreFile>d__2::MoveNext()": {
+          "Lines": {
+            "19": 0,
+            "21": 0,
+            "22": 0,
+            "24": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0
+          },
+          "Branches": [
+            {
+              "Line": 22,
+              "Offset": 132,
+              "EndOffset": 134,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 22,
+              "Offset": 132,
+              "EndOffset": 146,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\neftali.hernandez\\Documents\\Training\\xUnit\\MockingSampleApp\\Code\\Core\\Services\\SqlPhotoMetaData.cs": {
+      "Core.Services.SqlPhotoMetaData": {
+        "System.Void Core.Services.SqlPhotoMetaData::.ctor(Microsoft.Extensions.Configuration.IConfiguration)": {
+          "Lines": {
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0
+          },
+          "Branches": []
+        }
+      },
+      "Core.Services.SqlPhotoMetaData/<GetUserPhotos>d__2": {
+        "System.Void Core.Services.SqlPhotoMetaData/<GetUserPhotos>d__2::MoveNext()": {
+          "Lines": {
+            "21": 0,
+            "22": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "42": 0,
+            "43": 0
+          },
+          "Branches": [
+            {
+              "Line": 34,
+              "Offset": 618,
+              "EndOffset": 414,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 34,
+              "Offset": 618,
+              "EndOffset": 623,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "Core.Services.SqlPhotoMetaData/<SavePhotoMetaData>d__3": {
+        "System.Void Core.Services.SqlPhotoMetaData/<SavePhotoMetaData>d__3::MoveNext()": {
+          "Lines": {
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\neftali.hernandez\\Documents\\Training\\xUnit\\MockingSampleApp\\Code\\Core\\Services\\SqlServerLogins.cs": {
+      "Core.Services.SqlServerLogins": {
+        "System.Void Core.Services.SqlServerLogins::.ctor(Microsoft.Extensions.Configuration.IConfiguration,Microsoft.Extensions.Logging.ILogger`1<Core.Services.SqlServerLogins>)": {
+          "Lines": {
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0
+          },
+          "Branches": []
+        }
+      },
+      "Core.Services.SqlServerLogins/<CreateUser>d__3": {
+        "System.Void Core.Services.SqlServerLogins/<CreateUser>d__3::MoveNext()": {
+          "Lines": {
+            "24": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "46": 0
+          },
+          "Branches": []
+        }
+      },
+      "Core.Services.SqlServerLogins/<GetUser>d__4": {
+        "System.Void Core.Services.SqlServerLogins/<GetUser>d__4::MoveNext()": {
+          "Lines": {
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "67": 0,
+            "69": 0
+          },
+          "Branches": [
+            {
+              "Line": 60,
+              "Offset": 505,
+              "EndOffset": 507,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 60,
+              "Offset": 505,
+              "EndOffset": 586,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\neftali.hernandez\\Documents\\Training\\xUnit\\MockingSampleApp\\Code\\Core\\Models\\PhotoModel.cs": {
+      "Core.Models.PhotoModel": {
+        "System.String Core.Models.PhotoModel::get_FileName()": {
+          "Lines": {
+            "5": 0
+          },
+          "Branches": []
+        },
+        "System.String Core.Models.PhotoModel::get_Description()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\neftali.hernandez\\Documents\\Training\\xUnit\\MockingSampleApp\\Code\\Core\\Models\\User.cs": {
+      "Core.Models.User": {
+        "System.String Core.Models.User::get_Email()": {
+          "Lines": {
+            "5": 0
+          },
+          "Branches": []
+        },
+        "System.String Core.Models.User::get_Password()": {
+          "Lines": {
+            "6": 4
+          },
+          "Branches": []
+        }
+      }
+    }
+  },
+  "PersonalPhotos.dll": {
+    "C:\\Users\\neftali.hernandez\\Documents\\Training\\xUnit\\MockingSampleApp\\Code\\PersonalPhotos\\Views\\Home\\About.cshtml": {
+      "AspNetCoreGeneratedDocument.Views_Home_About/<ExecuteAsync>d__0": {
+        "System.Void AspNetCoreGeneratedDocument.Views_Home_About/<ExecuteAsync>d__0::MoveNext()": {
+          "Lines": {
+            "2": 0,
+            "4": 0,
+            "5": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\neftali.hernandez\\Documents\\Training\\xUnit\\MockingSampleApp\\Code\\PersonalPhotos\\Views\\Home\\Contact.cshtml": {
+      "AspNetCoreGeneratedDocument.Views_Home_Contact/<ExecuteAsync>d__0": {
+        "System.Void AspNetCoreGeneratedDocument.Views_Home_Contact/<ExecuteAsync>d__0::MoveNext()": {
+          "Lines": {
+            "2": 0,
+            "4": 0,
+            "5": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\neftali.hernandez\\Documents\\Training\\xUnit\\MockingSampleApp\\Code\\PersonalPhotos\\Views\\Home\\Index.cshtml": {
+      "AspNetCoreGeneratedDocument.Views_Home_Index/<ExecuteAsync>d__16": {
+        "System.Void AspNetCoreGeneratedDocument.Views_Home_Index/<ExecuteAsync>d__16::MoveNext()": {
+          "Lines": {
+            "2": 0
+          },
+          "Branches": [
+            {
+              "Line": 2,
+              "Offset": 460,
+              "EndOffset": 462,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 2,
+              "Offset": 460,
+              "EndOffset": 573,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 2,
+              "Offset": 978,
+              "EndOffset": 980,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 2,
+              "Offset": 978,
+              "EndOffset": 1091,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 2,
+              "Offset": 1496,
+              "EndOffset": 1498,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 2,
+              "Offset": 1496,
+              "EndOffset": 1609,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 2,
+              "Offset": 2014,
+              "EndOffset": 2016,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 2,
+              "Offset": 2014,
+              "EndOffset": 2127,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\neftali.hernandez\\Documents\\Training\\xUnit\\MockingSampleApp\\Code\\PersonalPhotos\\Views\\Logins\\Create.cshtml": {
+      "AspNetCoreGeneratedDocument.Views_Logins_Create/<<ExecuteAsync>b__16_0>d": {
+        "System.Void AspNetCoreGeneratedDocument.Views_Logins_Create/<<ExecuteAsync>b__16_0>d::MoveNext()": {
+          "Lines": {
+            "19": 0,
+            "24": 0
+          },
+          "Branches": [
+            {
+              "Line": 19,
+              "Offset": 549,
+              "EndOffset": 551,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 19,
+              "Offset": 549,
+              "EndOffset": 662,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 1217,
+              "EndOffset": 1219,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 1217,
+              "EndOffset": 1330,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "AspNetCoreGeneratedDocument.Views_Logins_Create/<ExecuteAsync>d__16": {
+        "System.Void AspNetCoreGeneratedDocument.Views_Logins_Create/<ExecuteAsync>d__16::MoveNext()": {
+          "Lines": {
+            "3": 0,
+            "11": 0
+          },
+          "Branches": [
+            {
+              "Line": 11,
+              "Offset": 594,
+              "EndOffset": 596,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 11,
+              "Offset": 594,
+              "EndOffset": 707,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\neftali.hernandez\\Documents\\Training\\xUnit\\MockingSampleApp\\Code\\PersonalPhotos\\Views\\Logins\\Login.cshtml": {
+      "AspNetCoreGeneratedDocument.Views_Logins_Login/<<ExecuteAsync>b__18_1>d": {
+        "System.Void AspNetCoreGeneratedDocument.Views_Logins_Login/<<ExecuteAsync>b__18_1>d::MoveNext()": {
+          "Lines": {
+            "13": 0,
+            "20": 0,
+            "25": 0
+          },
+          "Branches": [
+            {
+              "Line": 13,
+              "Offset": 545,
+              "EndOffset": 547,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 13,
+              "Offset": 545,
+              "EndOffset": 658,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 20,
+              "Offset": 1213,
+              "EndOffset": 1215,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 20,
+              "Offset": 1213,
+              "EndOffset": 1326,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 25,
+              "Offset": 1881,
+              "EndOffset": 1883,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 25,
+              "Offset": 1881,
+              "EndOffset": 1994,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "AspNetCoreGeneratedDocument.Views_Logins_Login/<ExecuteAsync>d__18": {
+        "System.Void AspNetCoreGeneratedDocument.Views_Logins_Login/<ExecuteAsync>d__18::MoveNext()": {
+          "Lines": {
+            "3": 0,
+            "11": 0
+          },
+          "Branches": [
+            {
+              "Line": 11,
+              "Offset": 420,
+              "EndOffset": 422,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 11,
+              "Offset": 420,
+              "EndOffset": 533,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 11,
+              "Offset": 1070,
+              "EndOffset": 1072,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 11,
+              "Offset": 1070,
+              "EndOffset": 1183,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\neftali.hernandez\\Documents\\Training\\xUnit\\MockingSampleApp\\Code\\PersonalPhotos\\Views\\Photos\\Display.cshtml": {
+      "AspNetCoreGeneratedDocument.Views_Photos_Display/<ExecuteAsync>d__10": {
+        "System.Void AspNetCoreGeneratedDocument.Views_Photos_Display/<ExecuteAsync>d__10::MoveNext()": {
+          "Lines": {
+            "4": 0,
+            "18": 0,
+            "19": 0,
+            "21": 0,
+            "22": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "31": 0,
+            "33": 0,
+            "34": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "42": 0
+          },
+          "Branches": [
+            {
+              "Line": 4,
+              "Offset": 465,
+              "EndOffset": 467,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 4,
+              "Offset": 465,
+              "EndOffset": 578,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 21,
+              "Offset": 1340,
+              "EndOffset": 832,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 26,
+              "Offset": 1205,
+              "EndOffset": 891,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 26,
+              "Offset": 1205,
+              "EndOffset": 1210,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 38,
+              "Offset": 1257,
+              "EndOffset": 1259,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 38,
+              "Offset": 1257,
+              "EndOffset": 1272,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 21,
+              "Offset": 1340,
+              "EndOffset": 1345,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\neftali.hernandez\\Documents\\Training\\xUnit\\MockingSampleApp\\Code\\PersonalPhotos\\Views\\Photos\\Upload.cshtml": {
+      "AspNetCoreGeneratedDocument.Views_Photos_Upload/<<ExecuteAsync>b__22_0>d": {
+        "System.Void AspNetCoreGeneratedDocument.Views_Photos_Upload/<<ExecuteAsync>b__22_0>d::MoveNext()": {
+          "Lines": {
+            "16": 0,
+            "20": 0
+          },
+          "Branches": [
+            {
+              "Line": 16,
+              "Offset": 621,
+              "EndOffset": 623,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 621,
+              "EndOffset": 734,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 20,
+              "Offset": 1311,
+              "EndOffset": 1313,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 20,
+              "Offset": 1311,
+              "EndOffset": 1424,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 20,
+              "Offset": 1825,
+              "EndOffset": 1827,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 20,
+              "Offset": 1825,
+              "EndOffset": 1938,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "AspNetCoreGeneratedDocument.Views_Photos_Upload/<ExecuteAsync>d__22": {
+        "System.Void AspNetCoreGeneratedDocument.Views_Photos_Upload/<ExecuteAsync>d__22::MoveNext()": {
+          "Lines": {
+            "3": 0,
+            "12": 0
+          },
+          "Branches": [
+            {
+              "Line": 12,
+              "Offset": 600,
+              "EndOffset": 602,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 12,
+              "Offset": 600,
+              "EndOffset": 713,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\neftali.hernandez\\Documents\\Training\\xUnit\\MockingSampleApp\\Code\\PersonalPhotos\\Views\\Shared\\Error.cshtml": {
+      "AspNetCoreGeneratedDocument.Views_Shared_Error/<ExecuteAsync>d__0": {
+        "System.Void AspNetCoreGeneratedDocument.Views_Shared_Error/<ExecuteAsync>d__0::MoveNext()": {
+          "Lines": {
+            "3": 0,
+            "9": 0,
+            "10": 0,
+            "12": 0,
+            "14": 0
+          },
+          "Branches": [
+            {
+              "Line": 9,
+              "Offset": 70,
+              "EndOffset": 72,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 9,
+              "Offset": 70,
+              "EndOffset": 136,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\neftali.hernandez\\Documents\\Training\\xUnit\\MockingSampleApp\\Code\\PersonalPhotos\\Views\\Shared\\_Layout.cshtml": {
+      "AspNetCoreGeneratedDocument.Views_Shared__Layout/<<ExecuteAsync>b__43_0>d": {
+        "System.Void AspNetCoreGeneratedDocument.Views_Shared__Layout/<<ExecuteAsync>b__43_0>d::MoveNext()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": [
+            {
+              "Line": 6,
+              "Offset": 421,
+              "EndOffset": 423,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 421,
+              "EndOffset": 534,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 913,
+              "EndOffset": 915,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 913,
+              "EndOffset": 1026,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "AspNetCoreGeneratedDocument.Views_Shared__Layout/<<ExecuteAsync>b__43_12>d": {
+        "System.Void AspNetCoreGeneratedDocument.Views_Shared__Layout/<<ExecuteAsync>b__43_12>d::MoveNext()": {
+          "Lines": {
+            "51": 0
+          },
+          "Branches": [
+            {
+              "Line": 51,
+              "Offset": 371,
+              "EndOffset": 373,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 51,
+              "Offset": 371,
+              "EndOffset": 484,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 51,
+              "Offset": 845,
+              "EndOffset": 847,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 51,
+              "Offset": 845,
+              "EndOffset": 958,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 51,
+              "Offset": 1468,
+              "EndOffset": 1470,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 51,
+              "Offset": 1468,
+              "EndOffset": 1581,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "AspNetCoreGeneratedDocument.Views_Shared__Layout/<<ExecuteAsync>b__43_13>d": {
+        "System.Void AspNetCoreGeneratedDocument.Views_Shared__Layout/<<ExecuteAsync>b__43_13>d::MoveNext()": {
+          "Lines": {
+            "66": 0
+          },
+          "Branches": [
+            {
+              "Line": 66,
+              "Offset": 541,
+              "EndOffset": 543,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 66,
+              "Offset": 541,
+              "EndOffset": 654,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 66,
+              "Offset": 1185,
+              "EndOffset": 1187,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 66,
+              "Offset": 1185,
+              "EndOffset": 1298,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 66,
+              "Offset": 1808,
+              "EndOffset": 1810,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 66,
+              "Offset": 1808,
+              "EndOffset": 1921,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "AspNetCoreGeneratedDocument.Views_Shared__Layout/<<ExecuteAsync>b__43_1>d": {
+        "System.Void AspNetCoreGeneratedDocument.Views_Shared__Layout/<<ExecuteAsync>b__43_1>d::MoveNext()": {
+          "Lines": {
+            "41": 0,
+            "69": 0
+          },
+          "Branches": [
+            {
+              "Line": 41,
+              "Offset": 573,
+              "EndOffset": 575,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 41,
+              "Offset": 573,
+              "EndOffset": 686,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 41,
+              "Offset": 1173,
+              "EndOffset": 1175,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 41,
+              "Offset": 1173,
+              "EndOffset": 1286,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 41,
+              "Offset": 1773,
+              "EndOffset": 1775,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 41,
+              "Offset": 1773,
+              "EndOffset": 1886,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 41,
+              "Offset": 2373,
+              "EndOffset": 2375,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 41,
+              "Offset": 2373,
+              "EndOffset": 2486,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 41,
+              "Offset": 2905,
+              "EndOffset": 2907,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 41,
+              "Offset": 2905,
+              "EndOffset": 3019,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 41,
+              "Offset": 3399,
+              "EndOffset": 3401,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 0
+            },
+            {
+              "Line": 41,
+              "Offset": 3399,
+              "EndOffset": 3513,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "AspNetCoreGeneratedDocument.Views_Shared__Layout/<<ExecuteAsync>b__43_3>d": {
+        "System.Void AspNetCoreGeneratedDocument.Views_Shared__Layout/<<ExecuteAsync>b__43_3>d::MoveNext()": {
+          "Lines": {
+            "16": 0
+          },
+          "Branches": [
+            {
+              "Line": 16,
+              "Offset": 623,
+              "EndOffset": 625,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 623,
+              "EndOffset": 736,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 1268,
+              "EndOffset": 1270,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 1268,
+              "EndOffset": 1381,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\neftali.hernandez\\Documents\\Training\\xUnit\\MockingSampleApp\\Code\\PersonalPhotos\\Views\\_ViewStart.cshtml": {
+      "AspNetCoreGeneratedDocument.Views__ViewStart/<ExecuteAsync>d__0": {
+        "System.Void AspNetCoreGeneratedDocument.Views__ViewStart/<ExecuteAsync>d__0::MoveNext()": {
+          "Lines": {
+            "2": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\neftali.hernandez\\Documents\\Training\\xUnit\\MockingSampleApp\\Code\\PersonalPhotos\\Program.cs": {
+      "PersonalPhotos.Program": {
+        "System.Void PersonalPhotos.Program::Main(System.String[])": {
+          "Lines": {
+            "16": 0,
+            "17": 0,
+            "18": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Hosting.IWebHost PersonalPhotos.Program::BuildWebHost(System.String[])": {
+          "Lines": {
+            "21": 0,
+            "22": 0,
+            "23": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\neftali.hernandez\\Documents\\Training\\xUnit\\MockingSampleApp\\Code\\PersonalPhotos\\Startup.cs": {
+      "PersonalPhotos.Startup": {
+        "Microsoft.Extensions.Configuration.IConfiguration PersonalPhotos.Startup::get_Configuration()": {
+          "Lines": {
+            "19": 0
+          },
+          "Branches": []
+        },
+        "System.Void PersonalPhotos.Startup::ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)": {
+          "Lines": {
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0
+          },
+          "Branches": []
+        },
+        "System.Void PersonalPhotos.Startup::Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IHostingEnvironment)": {
+          "Lines": {
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "51": 0,
+            "52": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0
+          },
+          "Branches": [
+            {
+              "Line": 38,
+              "Offset": 9,
+              "EndOffset": 11,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 38,
+              "Offset": 9,
+              "EndOffset": 22,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void PersonalPhotos.Startup::.ctor(Microsoft.Extensions.Configuration.IConfiguration)": {
+          "Lines": {
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\neftali.hernandez\\Documents\\Training\\xUnit\\MockingSampleApp\\Code\\PersonalPhotos\\Models\\ErrorViewModel.cs": {
+      "PersonalPhotos.Models.ErrorViewModel": {
+        "System.String PersonalPhotos.Models.ErrorViewModel::get_RequestId()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean PersonalPhotos.Models.ErrorViewModel::get_ShowRequestId()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\neftali.hernandez\\Documents\\Training\\xUnit\\MockingSampleApp\\Code\\PersonalPhotos\\Models\\LoginViewModel.cs": {
+      "PersonalPhotos.Models.LoginViewModel": {
+        "System.String PersonalPhotos.Models.LoginViewModel::get_Email()": {
+          "Lines": {
+            "9": 7
+          },
+          "Branches": []
+        },
+        "System.String PersonalPhotos.Models.LoginViewModel::get_Password()": {
+          "Lines": {
+            "12": 4
+          },
+          "Branches": []
+        },
+        "System.String PersonalPhotos.Models.LoginViewModel::get_ReturnUrl()": {
+          "Lines": {
+            "14": 3
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\neftali.hernandez\\Documents\\Training\\xUnit\\MockingSampleApp\\Code\\PersonalPhotos\\Models\\PhotoUploadViewModel.cs": {
+      "PersonalPhotos.Models.PhotoUploadViewModel": {
+        "System.String PersonalPhotos.Models.PhotoUploadViewModel::get_Description()": {
+          "Lines": {
+            "9": 2
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Http.IFormFile PersonalPhotos.Models.PhotoUploadViewModel::get_File()": {
+          "Lines": {
+            "12": 3
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\neftali.hernandez\\Documents\\Training\\xUnit\\MockingSampleApp\\Code\\PersonalPhotos\\Filters\\LoginAttribute.cs": {
+      "PersonalPhotos.Filters.LoginAttribute": {
+        "System.Void PersonalPhotos.Filters.LoginAttribute::OnActionExecuting(Microsoft.AspNetCore.Mvc.Filters.ActionExecutingContext)": {
+          "Lines": {
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0
+          },
+          "Branches": [
+            {
+              "Line": 22,
+              "Offset": 58,
+              "EndOffset": 60,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 22,
+              "Offset": 58,
+              "EndOffset": 88,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void PersonalPhotos.Filters.LoginAttribute::OnActionExecuted(Microsoft.AspNetCore.Mvc.Filters.ActionExecutedContext)": {
+          "Lines": {
+            "26": 0,
+            "27": 0
+          },
+          "Branches": []
+        },
+        "System.Void PersonalPhotos.Filters.LoginAttribute::.ctor(Microsoft.AspNetCore.Http.IHttpContextAccessor)": {
+          "Lines": {
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\neftali.hernandez\\Documents\\Training\\xUnit\\MockingSampleApp\\Code\\PersonalPhotos\\Controllers\\HomeController.cs": {
+      "PersonalPhotos.Controllers.HomeController": {
+        "Microsoft.AspNetCore.Mvc.IActionResult PersonalPhotos.Controllers.HomeController::Index()": {
+          "Lines": {
+            "14": 0,
+            "15": 0,
+            "16": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Mvc.IActionResult PersonalPhotos.Controllers.HomeController::About()": {
+          "Lines": {
+            "19": 0,
+            "20": 0,
+            "22": 0,
+            "23": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Mvc.IActionResult PersonalPhotos.Controllers.HomeController::Contact()": {
+          "Lines": {
+            "26": 0,
+            "27": 0,
+            "29": 0,
+            "30": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Mvc.IActionResult PersonalPhotos.Controllers.HomeController::Error()": {
+          "Lines": {
+            "33": 0,
+            "34": 0,
+            "35": 0
+          },
+          "Branches": [
+            {
+              "Line": 34,
+              "Offset": 14,
+              "EndOffset": 16,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 34,
+              "Offset": 14,
+              "EndOffset": 20,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 34,
+              "Offset": 26,
+              "EndOffset": 28,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 34,
+              "Offset": 26,
+              "EndOffset": 40,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\neftali.hernandez\\Documents\\Training\\xUnit\\MockingSampleApp\\Code\\PersonalPhotos\\Controllers\\LoginsController.cs": {
+      "PersonalPhotos.Controllers.LoginsController": {
+        "Microsoft.AspNetCore.Mvc.IActionResult PersonalPhotos.Controllers.LoginsController::Index(System.String)": {
+          "Lines": {
+            "22": 2,
+            "23": 2,
+            "24": 2,
+            "25": 2
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Mvc.IActionResult PersonalPhotos.Controllers.LoginsController::Create()": {
+          "Lines": {
+            "67": 0,
+            "68": 0,
+            "69": 0
+          },
+          "Branches": []
+        },
+        "System.Void PersonalPhotos.Controllers.LoginsController::.ctor(Core.Interfaces.ILogins,Microsoft.AspNetCore.Http.IHttpContextAccessor)": {
+          "Lines": {
+            "14": 4,
+            "15": 4,
+            "16": 4,
+            "17": 4,
+            "19": 4
+          },
+          "Branches": []
+        }
+      },
+      "PersonalPhotos.Controllers.LoginsController/<Create>d__6": {
+        "System.Void PersonalPhotos.Controllers.LoginsController/<Create>d__6::MoveNext()": {
+          "Lines": {
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "87": 0,
+            "89": 0,
+            "90": 0
+          },
+          "Branches": [
+            {
+              "Line": 74,
+              "Offset": 50,
+              "EndOffset": 52,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 74,
+              "Offset": 50,
+              "EndOffset": 103,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 81,
+              "Offset": 258,
+              "EndOffset": 260,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 81,
+              "Offset": 258,
+              "EndOffset": 311,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "PersonalPhotos.Controllers.LoginsController/<Login>d__4": {
+        "System.Void PersonalPhotos.Controllers.LoginsController/<Login>d__4::MoveNext()": {
+          "Lines": {
+            "29": 3,
+            "30": 3,
+            "31": 1,
+            "32": 1,
+            "33": 1,
+            "36": 2,
+            "37": 2,
+            "38": 2,
+            "39": 2,
+            "40": 1,
+            "42": 1,
+            "43": 1,
+            "45": 1,
+            "46": 1,
+            "47": 1,
+            "49": 1,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "56": 1,
+            "57": 0,
+            "58": 0,
+            "61": 1,
+            "62": 1,
+            "64": 3
+          },
+          "Branches": [
+            {
+              "Line": 30,
+              "Offset": 39,
+              "EndOffset": 41,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 30,
+              "Offset": 39,
+              "EndOffset": 97,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 37,
+              "Offset": 252,
+              "EndOffset": 257,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 2
+            },
+            {
+              "Line": 39,
+              "Offset": 289,
+              "EndOffset": 291,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 1
+            },
+            {
+              "Line": 39,
+              "Offset": 289,
+              "EndOffset": 338,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 1
+            },
+            {
+              "Line": 37,
+              "Offset": 252,
+              "EndOffset": 397,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 56,
+              "Offset": 473,
+              "EndOffset": 475,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 56,
+              "Offset": 473,
+              "EndOffset": 501,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 1
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\neftali.hernandez\\Documents\\Training\\xUnit\\MockingSampleApp\\Code\\PersonalPhotos\\Controllers\\PhotosController.cs": {
+      "PersonalPhotos.Controllers.PhotosController": {
+        "Microsoft.AspNetCore.Mvc.IActionResult PersonalPhotos.Controllers.PhotosController::Upload()": {
+          "Lines": {
+            "29": 0,
+            "30": 0,
+            "31": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Mvc.IActionResult PersonalPhotos.Controllers.PhotosController::Display()": {
+          "Lines": {
+            "51": 2,
+            "52": 2,
+            "53": 2,
+            "54": 2
+          },
+          "Branches": []
+        },
+        "System.Void PersonalPhotos.Controllers.PhotosController::.ctor(Core.Interfaces.IKeyGenerator,Microsoft.AspNetCore.Http.IHttpContextAccessor,Core.Interfaces.IPhotoMetaData,Core.Interfaces.IFileStorage)": {
+          "Lines": {
+            "18": 3,
+            "19": 3,
+            "20": 3,
+            "21": 3,
+            "22": 3,
+            "23": 3,
+            "24": 3,
+            "25": 3
+          },
+          "Branches": []
+        }
+      },
+      "PersonalPhotos.Controllers.PhotosController/<Upload>d__6": {
+        "System.Void PersonalPhotos.Controllers.PhotosController/<Upload>d__6::MoveNext()": {
+          "Lines": {
+            "36": 1,
+            "37": 1,
+            "38": 1,
+            "39": 1,
+            "40": 1,
+            "42": 1,
+            "43": 1,
+            "44": 1,
+            "45": 1,
+            "46": 1,
+            "47": 1
+          },
+          "Branches": [
+            {
+              "Line": 37,
+              "Offset": 47,
+              "EndOffset": 52,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 37,
+              "Offset": 47,
+              "EndOffset": 421,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        }
+      }
+    }
+  }
+}
